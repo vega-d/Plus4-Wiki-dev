@@ -2,12 +2,19 @@
 
 # Loop through all .md files recursively in the ./content directory
 for file in $(find ./content -type f -name "*.md"); do
-    # Get the first header line
-    TITLE=$(head -n 100 "$file" | grep -m 1 '^#' | sed 's/^# *//')
+    # Check if the file already starts with a YAML header
+    if grep -q '^---' "$file"; then
+        # Remove the existing header
+        sed -n '/^---/,$p' "$file" > temp && mv temp "$file"
+        # Correcting sed command to properly remove existing YAML headers:
+        sed -i '/^---/,/^---/d' "$file"
+    fi
+
+    # Get the first header line from the file (excluding any existing YAML headers)
+    TITLE=$(tail -n +2 "$file" | head -n 100 | grep -m 1 '^#' | sed 's/^# *//')
 
     # Define the header content dynamically using the first header
-    HEADER="
----
+    HEADER="---
 title: \"$TITLE\"
 render_with_liquid: false
 ---
