@@ -1,3 +1,9 @@
+
+---
+title: "How to adjust belt tension on the Qidi Plus 4"
+render_with_liquid: false
+---
+
 # How to adjust belt tension on the Qidi Plus 4
 
 Note: Also see the [increasing belt tension](#how-to-increasebalance-the-belt-tension-on-the-plus-4)

@@ -1,3 +1,9 @@
+
+---
+title: "Troubleshooting VFAs (vertical fine artifacts)"
+render_with_liquid: false
+---
+
 # Troubleshooting VFAs (vertical fine artifacts)
 
 Before attempting anything in this guide, you should already have your printer setup and tuned. Input shaper must be active and tuned. 

@@ -1,3 +1,9 @@
+
+---
+title: "Square Corner Velocity Tweak"
+render_with_liquid: false
+---
+
 # Square Corner Velocity Tweak
 
 The following tweaks are intended to improve the quality of prints on the Qidi Plus 4

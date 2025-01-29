@@ -1,3 +1,9 @@
+
+---
+title: "Cartographer3D for Qidi Plus 4"
+render_with_liquid: false
+---
+
 # Cartographer3D for Qidi Plus 4
 
 **Heads up - This is still a work in progress. Here (might) be dragons 🐲**

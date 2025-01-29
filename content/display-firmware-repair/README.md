@@ -1,3 +1,9 @@
+
+---
+title: "So you borked your touchscreen..."
+render_with_liquid: false
+---
+
 # So you borked your touchscreen...
 
 If a firmware update went sideways, or the screen just spontaneously decided to die, and now the screen is plain white with "DATA ERROR" in red text on it, or similar, you can fix it with a couple simple steps and a usb flash drive. 

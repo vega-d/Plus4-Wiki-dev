@@ -1,3 +1,9 @@
+
+---
+title: "Chamber Heater Issue"
+render_with_liquid: false
+---
+
 # Chamber Heater Issue
 
 ## Description

@@ -1,3 +1,9 @@
+
+---
+title: "0.2mm Layer Height High Quality Profile"
+render_with_liquid: false
+---
+
 # 0.2mm Layer Height High Quality Profile
 
 ## Recommendation for high quality wall surfaces

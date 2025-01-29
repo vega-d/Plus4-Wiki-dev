@@ -1,3 +1,9 @@
+
+---
+title: "A Dynamic Chamber Temperature Manager"
+render_with_liquid: false
+---
+
 # A Dynamic Chamber Temperature Manager
 
 If we follow [the guide outlined here](../chamber-heater-investigation#dont-bore-me-with-the-details-just-tell-me-what-to-do) to achieve

@@ -1,3 +1,9 @@
+
+---
+title: "Qidi Plus 4 SSR Upgrade"
+render_with_liquid: false
+---
+
 # Qidi Plus 4 SSR Upgrade
 
 ⚠️ **This mod requires you to work with AC mains wiring. A mistake in your work can cause harm to you and/or those around you. Please understand and only do this if you are confident in what you are doing. We accept no liability for damage or harm to you, others or your property. If you are in doubt, do not perform this mod.** ⚠️ 

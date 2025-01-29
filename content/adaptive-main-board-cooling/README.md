@@ -1,3 +1,9 @@
+
+---
+title: "Adaptive Main Board Cooling Configuration"
+render_with_liquid: false
+---
+
 # Adaptive Main Board Cooling Configuration
 
 **Reader Beware!** If you have previously imported the cofiguration files from [config-xplus4 repo](https://github.com/qidi-community/config-xplus4), then you already have a variation of this configuration installed and active! Verify by accessing the fluidd UI in your web browser and pressing the `x` key on your keyboard and look for a folder called `config-xplus4`. If you do not have it already, you can implement this page as documented. 

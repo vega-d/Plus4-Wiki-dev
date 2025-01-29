@@ -1,3 +1,9 @@
+
+---
+title: "Plus 4 Printer Configuration for Orca Slicer"
+render_with_liquid: false
+---
+
 # Plus 4 Printer Configuration for Orca Slicer
 
 ## Basic Information Settings

@@ -1,3 +1,9 @@
+
+---
+title: "Enabling KAMP Purging"
+render_with_liquid: false
+---
+
 # Enabling KAMP Purging
 
 KAMP Purging draws a single short ~30mm long, ~2mm wide, and ~0.8mm tall line near the front left of the area that the model will occupy.

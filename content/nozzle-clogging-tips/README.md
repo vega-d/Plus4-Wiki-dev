@@ -1,3 +1,9 @@
+
+---
+title: "PLA/PETG Heat Creep Clogging"
+render_with_liquid: false
+---
+
 # PLA/PETG Heat Creep Clogging
 
 ## The Issue and suspected causes

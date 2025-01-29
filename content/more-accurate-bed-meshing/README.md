@@ -1,3 +1,9 @@
+
+---
+title: "Better Bed Meshing"
+render_with_liquid: false
+---
+
 # Better Bed Meshing
 
 ## Caveat Emptor

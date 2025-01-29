@@ -1,3 +1,9 @@
+
+---
+title: "Qidi Plus 4 SSR Board"
+render_with_liquid: false
+---
+
 # Qidi Plus 4 SSR Board
 
 The initial units of the Qidi Plus 4 have a problem with the SSR Board that control the chamber heater. It appears under certain conditions the SSR board is not capable of handling the current needed to run the chamber heater on 110 - 120V. 

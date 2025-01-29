@@ -1,3 +1,9 @@
+
+---
+title: "Disabling Wifi 8188gu module"
+render_with_liquid: false
+---
+
 # Disabling Wifi 8188gu module
 As of QIDI's latest Plus4 firmware release, 1.6, the USB wireless module included 
 in current machines is using an rtlink dongle that is creating a kernel thread that

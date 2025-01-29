@@ -1,3 +1,9 @@
+
+---
+title: "Suggested Print Profiles"
+render_with_liquid: false
+---
+
 # Suggested Print Profiles
 
 ## *RECOMMENDED*

@@ -1,3 +1,9 @@
+
+---
+title: "How to access your Plus 4 through SSH"
+render_with_liquid: false
+---
+
 # How to access your Plus 4 through SSH
 
 SSH access is needed to interact with the Klipper configuration system. You will specifically need to SSH into your printer to add Klipper extensions.
